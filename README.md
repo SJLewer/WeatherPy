@@ -1,7 +1,7 @@
 # WeatherPy
 
 ## Project Overview
-Enhance the PlanMy Trip app to by including:
+Enhance the PlanMy Trip app by including:
 * Current weather description
 * User input statements to filter data based on their weather preferences
 * Identification of potential travel destinations and nearby hotels, based on user's weather preferences
